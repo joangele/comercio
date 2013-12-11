@@ -19,7 +19,7 @@ import javax.persistence.Table;
 public class Categoria implements Serializable {
 
 	/**
-	 * 
+	 * Modfcação para teste de egit
 	 */
 	private static final long serialVersionUID = -6658831328735473555L;
 	@Id 
